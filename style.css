@@ -23,10 +23,10 @@ body{
   width: 100%;
   margin-bottom: 20px;
 }
-.container h2{
+.container h1{
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  font-size: 22px;
+  font-size: 24px;
   margin-bottom: 20px;
   /* padding: 0 20px; */
 }
@@ -56,8 +56,8 @@ body{
     padding: 10px;
     margin: 30px auto;
   }
-  .container h2{
-    font-size: 22px;
+  .container h1{
+    font-size: 20px;
     padding: 0 0;
   }
   .container p{
@@ -71,8 +71,8 @@ body{
     padding: 10px;
     margin: 30px auto;
   }
-  .container h2{
-    font-size: 22px;
+  .container h1{
+    font-size: 20px;
     padding: 0 0;
   }
   .container p{
@@ -87,8 +87,8 @@ body{
     padding: 10px;
     margin: 30px auto;
   }
-  .container h2{
-    font-size: 22px;
+  .container h1{
+    font-size: 20px;
     padding: 0 0;
   }
   .container p{
@@ -103,8 +103,8 @@ body{
     padding: 10px;
     margin: 30px auto;
   }
-  .container h2{
-    font-size: 22px;
+  .container h1{
+    font-size: 20px;
     padding: 0 0;
   }
   .container p{
@@ -123,8 +123,8 @@ body{
     padding: 10px;
     margin: 30px auto;
   }
-  .container h2{
-    font-size: 22px;
+  .container h1{
+    font-size: 20px;
     padding: 0 0;
   }
   .container p{
